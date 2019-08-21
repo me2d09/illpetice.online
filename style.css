@@ -1,0 +1,190 @@
+  body {
+    padding: 0 !important;
+    margin: 0 !important;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: #247268;
+    font-size: 1.13em;
+    background-color: white;
+  }
+  a.vmore {
+    margin-left: 3em;
+    margin-right: auto;
+    color: inherit;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  div.container  {
+    margin-right: auto;
+    margin-left: auto;
+    width: 80%;
+    background-color: #FFFFFF;
+    outline: solid 2pt #247268;
+  
+  }
+  div#signatures {
+  
+    margin: 2em 2em 2em;
+  }
+  div.header {
+    background-color: #247268;
+    background-size: contain;
+    background-position: right top;
+    background-repeat: no-repeat;
+    padding: 0;
+  }
+  div.main {
+  }
+  div.footer {
+    font-weight: 300;
+    font-size: 70%;
+    padding-bottom: 0.9em;
+    padding-top: 5em;
+    text-align: center;
+  }
+  div.footer span {
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+  }
+  div.footer div {
+    margin-top: 0.3em;
+  
+  }
+  div.footer a {
+    color:inherit;
+    text-decoration: none;
+  }
+  div.footer ul li {
+    display: inline;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  p {
+      margin: 2em 4em 2em;
+      word-spacing: 110%;
+  }
+  h1 {
+    margin: 0;
+    color: #FFFFFF;
+    font-size: 220%;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    padding: 1.5em 1.5em 1.5em 2em;
+    text-shadow: 0 0 0.2em #000 ;
+    letter-spacing: 0.05em;
+  }
+  .header a {
+    text-decoration: none;
+  }
+  h2 {
+    margin-left: 2em;
+    margin-top: 1.25em;
+  }
+  h3 {
+    width: inherit;
+    height: auto;
+    margin: 1em 0em 1em;
+    padding: 1em 2em 1em;
+    background-color: #247268;
+    color: #FFFFFF;
+  }
+  strong {
+    font-weight: 600;
+    letter-spacing: 0.08em;
+  }
+  div#form {
+    width: 40em;
+    margin-left: auto;
+    margin-right: auto;
+  
+  }
+  form label{
+  font-size: 70%;
+  position: relative;
+  top: 0.2em;
+  left: 0.4em;
+  color: #247268;
+  }
+  form div {
+    display: inline-block;
+  }
+  form input{
+    font-size: 1.1em;
+    padding: 0.2em;
+    color: #247268;
+    border-style: solid;
+    border-width: thin;
+    border-color: #247268;
+    border-radius: 0.3em;
+  }
+  
+  form input.submitInput {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    margin-top: 1.5em;
+    font-size: 0.8em;
+    padding: 0.4em;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #247268;
+    color: #FFFFFF;
+    width: 18em;
+  }
+  form input.submitInput[name="sci"]{
+    margin-left: 1em;
+    margin-right: 1.6em;
+  }
+  form input.submitInput{
+    margin-left: 1.6em;
+    margin-right: 1em;
+  }
+  
+  form input.submitInput:hover {
+    background-color: #ABD8D1;
+    cursor: pointer;
+    color: #247268;
+  
+  }
+  form input.submitInput:active {
+    background-color: #FFFFFF;
+    color: #247268;
+  }
+  form div#submits input {
+    margin-right: 0em;
+    margin-left: auto;
+  }
+  div.intro{
+  
+    padding-top: 1em;
+    padding-bottom: 1em;
+    background-color: #D1EFF6;
+    height: auto;
+  
+  }
+  div.onePerson {
+    width: auto;
+    font-size: 90%;
+    text-align: center;
+    display: inline-block;
+    margin: 1em;
+  }
+  div.onePerson span.personName {
+    font-weight: 600;
+  }
+  div.onePerson span.personInstitution {
+    font-size: 80%;
+  }
+  div.hider {
+    display: none;
+  }
+  table.goToSupport {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 4em;
+  }
+  table.goToSupport input {
+    margin-left: 1em;
+    margin-right: 1em;
+  }
